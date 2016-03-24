@@ -1,2 +1,2 @@
-# Trionfis
-ss
+# Trionfi
+Cards game
